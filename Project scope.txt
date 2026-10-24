@@ -1,0 +1,13 @@
+Unnamed Pipe Game Starter project
+
+Overview
+	This game is intended to build experience in graphic design as well as coding, and meshing the two together. The overall object of the game is to successfully cycle through a constantly updated list of "pipe-types" facing multiple directions to successfully assemble a consistent pipe before the "ooze" of a substance begins to flow through the pipe. There will be a head-start time limit before the substance begins to ooze through the pipe. During the head-start period, the player will have a chance to do just that...get a head start building out the pipe using the provided constantly updated list of pipes to select the most probable and successful one. The game will be divided up into multiple levels, the amount of which is unknown at this time. The ending or "goal" of each level is also undetermined at this time. Goals could be: 1.) a pipe-ending that is connected to so the substance could successfully "flow" through the built pipe or 2.) a pre-determined amount of successful pipe connects. 
+
+Tools
+	Tools are up to change and debate based on what works best with project. Some considered but not limited to could be a project file containing game assets shared over a cloud storage platform such as Dropbox. This way those working on project could do so personally in their own time. As the game becomes more complex and evolves, a form of version control could be GitHub. The game engine used initially will be Godot. This should provide a good beginner platform to learn and adapt to workflow. Asset design could be used in whatever designer would deem fit (GIMP?, Blender?). Those working on project may need to be on the same page with design and building software used? Plan to code game in VS code or within Godot(if possible). www.dropbox.com www.godotengine.org 
+
+Platform
+	For learning purposes, game should be simple in the platform designed for (Web app?) this will be discussed later as knowledge grows. Would like to grow into a mobile based game if possible Available on Apple(Swift language) and Android(Android Studio). But for starters, game may only be accessible through Godot platform. If possible, game could be embeded on the web, but this creates further consideration such as web hosting and storage. 
+
+
+
